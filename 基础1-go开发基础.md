@@ -249,9 +249,12 @@ solidity
 存储布局冲突：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-coding/3.2%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%90%88%E7%BA%A6/03Solidity%E5%AD%98%E5%82%A8%E5%B8%83%E5%B1%80%E7%9A%84%E5%86%B2%E7%AA%81.md
 
 透明代理：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-coding/3.2%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%90%88%E7%BA%A6/04%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86.md
+
 UUPS：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-coding/3.2%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%90%88%E7%BA%A6/05UUPS.md
 
 区别在哪：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-coding/3.2%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%90%88%E7%BA%A6/06%E5%8C%BA%E5%88%AB%E5%9C%A8%E5%93%AA.md
 
-:writing_hand: 作业地址：https://discord.com/channels/1343593402070990870/1347848482073083956在⁠https://discord.com/channels/1343593402070990870/1352515111343886336 晒结果
+:writing_hand: 作业地址：https://discord.com/channels/1343593402070990870/1347848482073083956
+在⁠https://discord.com/channels/1343593402070990870/1352515111343886336 晒结果
+
 :bulb: 这里作业统一提交一个能公开访问的 git地址，每个章节的作业，就对应一个 文件夹
