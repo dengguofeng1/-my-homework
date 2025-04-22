@@ -244,9 +244,8 @@ js的异步语法：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/
 开头：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-coding/3.2可升级合约/01合约升级与部署.md
 
 原理：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-coding/3.2%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%90%88%E7%BA%A6/02%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%90%88%E7%BA%A6%E5%8E%9F%E7%90%86.md
-solidity
 
-存储布局冲突：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-coding/3.2%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%90%88%E7%BA%A6/03Solidity%E5%AD%98%E5%82%A8%E5%B8%83%E5%B1%80%E7%9A%84%E5%86%B2%E7%AA%81.md
+solidity存储布局冲突：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-coding/3.2%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%90%88%E7%BA%A6/03Solidity%E5%AD%98%E5%82%A8%E5%B8%83%E5%B1%80%E7%9A%84%E5%86%B2%E7%AA%81.md
 
 透明代理：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-coding/3.2%E5%8F%AF%E5%8D%87%E7%BA%A7%E5%90%88%E7%BA%A6/04%E9%80%8F%E6%98%8E%E4%BB%A3%E7%90%86.md
 
