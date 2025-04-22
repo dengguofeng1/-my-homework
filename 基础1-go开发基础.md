@@ -1,7 +1,7 @@
 # 基础一：Golang开发基础（F1）
 :bulb: 点击蓝色标题跳转Github链接
 
-## 任务 :one:: 文档资料 :point_right: [Go语言基础](https://github.com/MetaNodeAcademy/golang/tree/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+## 任务 :one:: 文档资料 :point_right: [Go语言基础](https://github.com/MetaNodeAcademy/Base1_golang/tree/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
 - :tv: **视频地址** :https://discord.com/channels/1343593402070990870/1353258530559234120
 
 :book: ​**内容概览**  
@@ -33,7 +33,7 @@
 :writing_hand: 作业地址：https://discord.com/channels/1343593402070990870/1347844164796153917 在https://discord.com/channels/1343593402070990870/1352515111343886336 ⁠ 晒结果
 :bulb: 这里作业统一提交一个能公开访问的 git地址，每个章节的作业，就对应一个 文件夹
 
-## 任务 :two:: 文档资料:point_right: [Go高级进阶](https://github.com/MetaNodeAcademy/golang/tree/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+## 任务 :two:: 文档资料:point_right: [Go高级进阶](https://github.com/MetaNodeAcademy/Base1_golang/tree/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
 - :tv: **视频地址** :https://discord.com/channels/1343593402070990870/1353258530559234120
 
 :book: ​**内容概览**  
@@ -65,7 +65,7 @@
 :writing_hand: 作业地址：https://discord.com/channels/1343593402070990870/1347847002574028871 在 ⁠https://discord.com/channels/1343593402070990870/1347847002574028871 晒结果
 :bulb: 这里作业统一提交一个能公开访问的 git地址，每个章节的作业，就对应一个 文件夹
 
-## 任务 :three:: 文档资料:point_right: [ORM框架：gorm](https://github.com/MetaNodeAcademy/Base1-Golang/tree/main/03.ORM%E6%A1%86%E6%9E%B6)
+## 任务 :three:: 文档资料:point_right: [ORM框架：gorm](https://github.com/MetaNodeAcademy/Base1_golang/tree/main/03.ORM%E6%A1%86%E6%9E%B6)
 :book: ​**内容概览**  
 从SQL基础到ORM框架实战  
 :white_check_mark: ​**预期成果**  
@@ -88,7 +88,7 @@
 :writing_hand: 作业地址：https://discord.com/channels/1343593402070990870/1347847054747238430 在⁠https://discord.com/channels/1343593402070990870/1352515111343886336 晒结果
 :bulb: 这里作业统一提交一个能公开访问的 git地址，每个章节的作业，就对应一个 文件夹
 
-## 任务 :four:: 文档资料:point_right: [Web框架：gin/go-zero](https://github.com/MetaNodeAcademy/Base1-Golang/tree/main/04Web%E6%A1%86%E6%9E%B6%EF%BC%9Agin%26go-zero/2.go-zero)
+## 任务 :four:: 文档资料:point_right: [Web框架：gin/go-zero](https://github.com/MetaNodeAcademy/Base1_golang/tree/main/04Web%E6%A1%86%E6%9E%B6%EF%BC%9Agin%26go-zero)
 :book: ​**内容概览**  
 从原生HTTP到框架开发实战  
 :white_check_mark: ​**预期成果**  
@@ -116,7 +116,8 @@
 :white_check_mark: 完成高并发订单处理
 
 
-:writing_hand: 作业地址：https://discord.com/channels/1343593402070990870/1347847105095532554 在⁠https://discord.com/channels/1343593402070990870/1352515111343886336 晒结果
+:writing_hand: 作业地址：https://discord.com/channels/1343593402070990870/1347847105095532554 
+在⁠https://discord.com/channels/1343593402070990870/1352515111343886336 晒结果
 :bulb: 这里作业统一提交一个能公开访问的 git地址，每个章节的作业，就对应一个 文件夹
 
 ## 任务 :five:: 文档资料:point_right: [Web3扫盲](https://github.com/MetaNodeAcademy/Base1-Go-Web3)
@@ -256,4 +257,4 @@ UUPS：https://github.com/MetaNodeAcademy/Base2-Solidity/blob/main/3-solidity-co
 :writing_hand: 作业地址：https://discord.com/channels/1343593402070990870/1347848482073083956
 在⁠https://discord.com/channels/1343593402070990870/1352515111343886336 晒结果
 
-:bulb: 这里作业统一提交一个能公开访问的 git地址，每个章节的作业，就对应一个 文件夹
+:bulb: 这里作业统一提交一个能公开访问的 git地址，每个章节的作业，就对应一个文件夹的形式
