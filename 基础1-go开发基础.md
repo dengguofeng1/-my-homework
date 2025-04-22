@@ -9,26 +9,28 @@
 :white_check_mark: ​**预期成果**  
 能独立编写包含基础语法元素的Go程序  
 :hourglass: ​**预计时间**：6小时  
-### 重点任务
-:white_small_square: 控制流程  
-:book: `if/else` `for` `switch`语句实践  
-:white_check_mark: 实现分支与循环逻辑  
 
-:white_small_square: 函数  
-:book: 函数声明、多返回值、匿名函数  
-:white_check_mark: 编写可复用函数模块  
-
-:white_small_square: 基本值类型  
-:book: 整型/浮点型/布尔型/字符串操作  
-:white_check_mark: 掌握类型转换与运算  
-
-:white_small_square: 引用类型：切片  
-:book: 切片原理与常用操作  
-:white_check_mark: 实现动态数组管理  
-
-:white_small_square: 引用类型：结构体  
-:book: 结构体定义与方法  
-:white_check_mark: 创建复杂数据结构
+- 开发环境准备   📺[视频](https://meeting.tencent.com/cw/KwddReLqff)
+- 文件结构   📺[视频](https://meeting.tencent.com/crm/KPGGZaOrf9)
+- 基本数据类型   📺[视频](https://meeting.tencent.com/crm/NgOOA1qb38)
+- 定义变量   📺[视频](https://meeting.tencent.com/crm/NgOOA8bX7d)
+- 指针   📺[视频](https://meeting.tencent.com/crm/l7008jkQ8b)
+- 结构体   📺[视频](https://meeting.tencent.com/crm/KzWWeynp80)
+- 常量与枚举   📺[视频](https://meeting.tencent.com/crm/2rxxL8ewf4)
+- 运算操作符   📺[视频](https://meeting.tencent.com/crm/l5n9PJpee4)
+- 流程控制   📺[视频](https://meeting.tencent.com/crm/KDnLrBbVd2)
+- 循环控制 📺[视频](https://meeting.tencent.com/crm/lvgmRZqL3f)
+- 函数、闭包与方法 📺[视频](https://meeting.tencent.com/crm/KWGZ81R703)
+- 变量的作用域 📺[视频](https://meeting.tencent.com/crm/2kgezO1of5)
+- 数组 📺[视频](https://meeting.tencent.com/crm/K0wDWaPe70)
+- 切片 📺[视频](https://meeting.tencent.com/crm/KEV4Lv7Y61)
+- map集合 📺[视频](https://meeting.tencent.com/crm/KnwOyoXw64)
+- range迭代 📺[视频](https://meeting.tencent.com/crm/2BLB4aDp89)
+- 类型转换 📺[视频](https://meeting.tencent.com/crm/2OmRo7Va13)
+- interface 接口 📺[视频](https://meeting.tencent.com/crm/l6BP7aOpaa)
+- 并发-gorutine与channel 📺[视频](https://meeting.tencent.com/crm/23VwDpBb77)
+- 并发-select关键字 📺[视频](https://meeting.tencent.com/crm/2ZaDDoDd04)
+- 编译可执行二进制文件 📺[视频](https://meeting.tencent.com/crm/KeOa4zL4fd)
 
 :writing_hand: 作业地址：https://discord.com/channels/1343593402070990870/1347844164796153917 在https://discord.com/channels/1343593402070990870/1352515111343886336 ⁠ 晒结果
 :bulb: 这里作业统一提交一个能公开访问的 git地址，每个章节的作业，就对应一个 文件夹
