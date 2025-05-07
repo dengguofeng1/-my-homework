@@ -57,7 +57,7 @@
 能使用gorm进行数据库开发  
 :hourglass: ​**预计时间**：10小时  
 
-- Gorm [参考视频](https://www.bilibili.com/video/BV1xg411t7RZ/?spm_id_from=333.337.search-card.all.click&vd_source=8a8438f07a31952c202d4b07b00c75f4)
+- Gorm 📺[参考视频](https://www.bilibili.com/video/BV1xg411t7RZ/?spm_id_from=333.337.search-card.all.click&vd_source=8a8438f07a31952c202d4b07b00c75f4)
 
 :writing_hand: [作业地址](https://discord.com/channels/1343593402070990870/1347847054747238430)  
 📮 [打卡地址](https://discord.com/channels/1343593402070990870/1352515111343886336)  
@@ -70,8 +70,8 @@
 能构建RESTful API服务  
 :hourglass: ​**预计时间**：12小时  
 
-- Gin框架 [文档](https://gin-gonic.com/zh-cn/docs/introduction/)
-- Go-zero框架   [文档](https://go-zero.dev/docs/tutorials)  [参考视频](https://space.bilibili.com/389552232/upload/video)
+- Gin框架 📖[文档](https://gin-gonic.com/zh-cn/docs/introduction/) 📺[视频](https://meeting.tencent.com/crm/KzdWoG9rab) 📙[课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/04Web%E6%A1%86%E6%9E%B6%EF%BC%9Agin%26go-zero/1.gin/Gin%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D.md)
+- Go-zero框架   📖[文档](https://go-zero.dev/docs/tutorials)  📺[参考视频](https://space.bilibili.com/389552232/upload/video)
 
 :writing_hand: [作业地址](https://discord.com/channels/1343593402070990870/1347847105095532554)  
 📮 [打卡地址](https://discord.com/channels/1343593402070990870/1352515111343886336)  
