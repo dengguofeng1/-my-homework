@@ -56,19 +56,8 @@
 :white_check_mark: ​**预期成果**  
 能使用gorm进行数据库开发  
 :hourglass: ​**预计时间**：10小时  
-### 重点任务
-:white_small_square: SQL语句练习  
-:book: 手写CRUD与事务语句  
-:white_check_mark: 掌握基础数据库操作  
 
-:white_small_square: Sqlx入门  
-:book: 使用SQL扩展库进行查询  
-:white_check_mark: 实现类型安全映射  
-
-:white_small_square: 进阶gorm  
-:book: 模型定义/关联查询/钩子函数  
-:white_check_mark: 构建ORM数据模型  
-
+- Gorm [参考视频](https://www.bilibili.com/video/BV1xg411t7RZ/?spm_id_from=333.337.search-card.all.click&vd_source=8a8438f07a31952c202d4b07b00c75f4)
 
 :writing_hand: [作业地址](https://discord.com/channels/1343593402070990870/1347847054747238430)  
 📮 [打卡地址](https://discord.com/channels/1343593402070990870/1352515111343886336)  
@@ -80,27 +69,9 @@
 :white_check_mark: ​**预期成果**  
 能构建RESTful API服务  
 :hourglass: ​**预计时间**：12小时  
-### 子任务
-4.1 :white_small_square: 原生Web服务  
-:book: `net/http`包基础使用  
-:white_check_mark: 实现简单HTTP服务  
 
-4.2 :white_small_square: Gin框架  
-:book: 路由/中间件/参数绑定  
-:white_check_mark: 快速构建Web应用  
-
-4.3 :white_small_square: 扩展生态  
-:book: JWT鉴权/日志中间件/加密  
-:white_check_mark: 实现安全API接口  
-
-4.4 :white_small_square: Go-zero实战  
-:book: RPC服务/API网关配置  
-:white_check_mark: 开发代币交换系统
-
-4.5:white_small_square: 订单撮合模块  
-:book: 实现交易匹配核心逻辑  
-:white_check_mark: 完成高并发订单处理
-
+- Gin框架 [文档](https://gin-gonic.com/zh-cn/docs/introduction/)
+- Go-zero框架   [文档](https://go-zero.dev/docs/tutorials)  [参考视频](https://space.bilibili.com/389552232/upload/video)
 
 :writing_hand: [作业地址](https://discord.com/channels/1343593402070990870/1347847105095532554)  
 📮 [打卡地址](https://discord.com/channels/1343593402070990870/1352515111343886336)  
