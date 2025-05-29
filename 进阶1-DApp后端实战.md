@@ -7,7 +7,7 @@
 :hourglass: ​**预计时间**：6小时  
 
 1.1 查询区块
-📺  [视频地址](hhttps://k22zz.xetlk.com/s/1T6wVV)
+📺  [视频地址](https://k22zz.xetlk.com/s/1T6wVV)
 📙  [课件](https://github.com/MetaNodeAcademy/Advanced1-backend-upgrade/blob/main/ethclient%E5%AE%9E%E6%88%98/2.01%20%E6%9F%A5%E8%AF%A2%E5%8C%BA%E5%9D%97/%E6%9F%A5%E8%AF%A2%E5%8C%BA%E5%9D%97.md)
 
 1.2 查询交易
