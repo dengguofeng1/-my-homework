@@ -57,6 +57,8 @@
 能使用gorm进行数据库开发  
 :hourglass: ​**预计时间**：10小时  
 
+- 官方文档 📖[文档](https://gorm.io/zh_CN/docs/)
+- 官方社区 📢[地址](https://gorm.io/zh_CN/community.html)
 - Gorm教程 - 入门 📺[视频](https://k22zz.xetslk.com/s/3p8K0t) 📙[课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/GORM%E5%AD%A6%E4%B9%A0/%E5%85%A5%E9%97%A8.md)
 - Gorm教程 - CRUD 📺[视频](https://k22zz.xetslk.com/s/1K1jFr) 📙[课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/GORM%E5%AD%A6%E4%B9%A0/CRUD.md)
 - Gorm教程 - 关联_1 📺[视频](https://k22zz.xetslk.com/s/1mHZMQ) 📙[课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/GORM%E5%AD%A6%E4%B9%A0/%E5%85%B3%E8%81%94.md)
