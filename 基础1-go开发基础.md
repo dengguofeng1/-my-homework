@@ -57,7 +57,11 @@
 能使用gorm进行数据库开发  
 :hourglass: ​**预计时间**：10小时  
 
-- Gorm 📺[参考视频](https://www.bilibili.com/video/BV1xg411t7RZ/?spm_id_from=333.337.search-card.all.click&vd_source=8a8438f07a31952c202d4b07b00c75f4)
+- Gorm教程 - 入门 📺[视频](https://k22zz.xetslk.com/s/3p8K0t) 📙[课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/GORM%E5%AD%A6%E4%B9%A0/%E5%85%A5%E9%97%A8.md)
+- Gorm教程 - CRUD 📺[视频](https://k22zz.xetslk.com/s/1K1jFr) 📙[课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/GORM%E5%AD%A6%E4%B9%A0/CRUD.md)
+- Gorm教程 - 关联_1 📺[视频](https://k22zz.xetslk.com/s/1mHZMQ) 📙[课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/GORM%E5%AD%A6%E4%B9%A0/%E5%85%B3%E8%81%94.md)
+- Gorm教程 - 关联_2 📺[视频](https://k22zz.xetslk.com/s/iO8oW) 📙[课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/GORM%E5%AD%A6%E4%B9%A0/%E5%85%B3%E8%81%94.md#%E9%87%8D%E5%86%99%E5%A4%96%E9%94%AE-3)
+- Gorm教程 - 补充 📺[视频](https://k22zz.xetslk.com/s/1cSiqN) 📙[课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/GORM%E5%AD%A6%E4%B9%A0/%E8%A1%A5%E5%85%85%E6%95%99%E7%A8%8B.md)
 
 :writing_hand: [作业地址](https://discord.com/channels/1343593402070990870/1347847054747238430)  
 📮 [打卡地址](https://discord.com/channels/1343593402070990870/1352515111343886336)  
