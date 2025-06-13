@@ -75,6 +75,7 @@
   - 📺 [权益证明下](https://k22zz.xetlk.com/s/2enuAg) 
 - Merkle树 📺 [视频](https://k22zz.xetlk.com/s/3gQgwJ) 📙 [课件](https://github.com/MetaNodeAcademy/Base1-Go-Web3/blob/main/4.%E4%BB%A5%E5%A4%AA%E5%9D%8AMerkle%E6%A0%91/4.%E4%BB%A5%E5%A4%AA%E5%9D%8AMerkle%E6%A0%91.md)
 - P2P网络 📺 [视频](https://k22zz.xetlk.com/s/6RD04) 📙 [课件](https://github.com/MetaNodeAcademy/Base1-Go-Web3/blob/main/5.%20P2P%E7%BD%91%E7%BB%9C/p2p%E7%BD%91%E7%BB%9C.md)
+- [外部参考文档](https://github.com/ZtesoftCS/go-ethereum-code-analysis)
 
 
 ✍️ [作业地址](https://discord.com/channels/1343593402070990870/1352550004199522338)  
