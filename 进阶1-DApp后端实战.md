@@ -68,6 +68,15 @@
 学生能够理解并解释Go-Ethereum的核心功能和架构设计。  
 ⌛预计时间：15小时
 
+- 密码学基础 📺 [视频](https://k22zz.xetlk.com/s/2oPlcd) 📙 [课件](https://github.com/MetaNodeAcademy/Base1-Go-Web3/blob/main/1.%E5%AF%86%E7%A0%81%E5%AD%A6%E5%9F%BA%E7%A1%80/%E5%AF%86%E7%A0%81%E5%AD%A6%E5%9F%BA%E7%A1%80.md)
+- 共识机制基础 [课件](https://github.com/MetaNodeAcademy/Base1-Go-Web3/tree/main/2.%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6)
+  - 📺 [工作量证明](https://k22zz.xetlk.com/s/3hRkrw)
+  - 📺 [权益证明上](https://k22zz.xetlk.com/s/3jqsHI)
+  - 📺 [权益证明下](https://k22zz.xetlk.com/s/2enuAg) 
+- Merkle树 📺 [视频](https://k22zz.xetlk.com/s/3gQgwJ) 📙 [课件](https://github.com/MetaNodeAcademy/Base1-Go-Web3/blob/main/4.%E4%BB%A5%E5%A4%AA%E5%9D%8AMerkle%E6%A0%91/4.%E4%BB%A5%E5%A4%AA%E5%9D%8AMerkle%E6%A0%91.md)
+- P2P网络 📺 [视频](https://k22zz.xetlk.com/s/6RD04) 📙 [课件](https://github.com/MetaNodeAcademy/Base1-Go-Web3/blob/main/5.%20P2P%E7%BD%91%E7%BB%9C/p2p%E7%BD%91%E7%BB%9C.md)
+
+
 ✍️ [作业地址](https://discord.com/channels/1343593402070990870/1352550004199522338)  
 📮 [打卡地址](https://discord.com/channels/1343593402070990870/1352550135480975391)  
 
