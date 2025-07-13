@@ -9,6 +9,8 @@
 - [区块链与智能合约初识](https://k22zz.xetlk.com/s/4x3L0a)
 - [加密钱包和网络的使用](https://github.com/MetaNodeAcademy/openWeb3/blob/main/05.%E5%8A%A0%E5%AF%86%E9%92%B1%E5%8C%85%E7%9A%84%E4%BD%BF%E7%94%A8.md)
   - 📺 [参考视频](https://www.youtube.com/watch?v=MbvoDqb6Ip0)
+  - 📺 [区块浏览器：上](https://www.youtube.com/watch?v=-FIY6BRkuFs)
+  - 📺 [区块浏览器：下](https://www.youtube.com/watch?v=-MNvP1E419o)
 - [区块链与Web3术语详解](https://github.com/MetaNodeAcademy/Base1-Go-Web3/blob/main/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%B8%8EWeb3%E6%9C%AF%E8%AF%AD%E8%AF%A6%E8%A7%A3.md)
 - 外部推荐资源
   - 📺 [北京大学肖臻老师《区块链技术与应用》公开课](https://www.bilibili.com/video/BV1Vt411X7JF/?spm_id_from=333.337.search-card.all.click&vd_source=765504182315da1e63cea5260af948d7)
