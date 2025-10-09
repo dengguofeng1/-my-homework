@@ -9,8 +9,6 @@
 能独立编写包含基础语法元素的Go程序  
 :hourglass: ​**预计时间**：6小时  
 
-- **课件地址** 📖[课件](https://github.com/RemoteCodeCamp/openWeb3/tree/main/00.go%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80/00-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95)
-
 - 开发环境准备   📺[视频](https://k22zz.xetlk.com/s/MwoVT)
 - 文件结构   📺[视频](https://k22zz.xetlk.com/s/3hJxTF)
 - 基本数据类型   📺[视频](https://k22zz.xetlk.com/s/2FaAaH)
