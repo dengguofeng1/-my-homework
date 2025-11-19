@@ -4,7 +4,7 @@
 >
 
 ## 了解web3
-不管你是前后端，先完成**(第一周的历练)[https://github.com/MetaNodeAcademy/week-one]**
+不管你是前后端，先完成**[第一周的历练](https://github.com/MetaNodeAcademy/week-one)**
 然后是(web3概念扫盲)[./web3扫盲.md]
 这里你需要掌握:
 - 小狐狸、okx的web3钱包基本概念和使用方法
