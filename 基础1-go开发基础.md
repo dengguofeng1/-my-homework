@@ -9,23 +9,41 @@
 能独立编写包含基础语法元素的Go程序  
 :hourglass: ​**预计时间**：6小时  
 
-- 开发环境准备   📺[视频](https://k22zz.xetlk.com/s/MwoVT)
-- 文件结构   📺[视频](https://k22zz.xetlk.com/s/3hJxTF)
-- 基本数据类型   📺[视频](https://k22zz.xetlk.com/s/2FaAaH)
-- 定义变量   📺[视频](https://k22zz.xetlk.com/s/25V7mQ)
-- 指针   📺[视频](https://k22zz.xetlk.com/s/2iG6RS)
-- 结构体   📺[视频](https://k22zz.xetlk.com/s/7VA4d)
-- 常量与枚举   📺[视频](https://k22zz.xetlk.com/s/24J0aq)
-- 运算操作符   📺[视频](https://k22zz.xetlk.com/s/2bGNwe)
-- 流程控制   📺[视频](https://k22zz.xetlk.com/s/tgpwh)
-- 循环控制 📺[视频](https://k22zz.xetlk.com/s/3nRG1a)
-- 函数、闭包与方法 📺[视频](https://k22zz.xetlk.com/s/219BV1)
-- 变量的作用域 📺[视频](https://k22zz.xetlk.com/s/gqcIx)
-- 数组 📺[视频](https://k22zz.xetlk.com/s/22TAW7)
-- 切片 📺[视频](https://k22zz.xetlk.com/s/4lBVsV)
-- map集合 📺[视频](https://k22zz.xetlk.com/s/M589b)
-- range迭代 📺[视频](https://k22zz.xetlk.com/s/1xm7yI)
-- 类型转换 📺[视频](https://k22zz.xetlk.com/s/2K8b8u)
+    - 开发环境准备: 
+    📺[视频](https://k22zz.xetlk.com/s/MwoVT)
+    [课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/01.%E5%BA%8F%E7%AB%A0%20Golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87/Golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87.md)
+    - 文件结构:
+    📺[视频](https://k22zz.xetlk.com/s/3hJxTF)
+    - 基本数据类型:   
+    📺[视频](https://k22zz.xetlk.com/s/2FaAaH)
+    - 定义变量:
+    📺[视频](https://k22zz.xetlk.com/s/25V7mQ)
+    - 指针:
+    📺[视频](https://k22zz.xetlk.com/s/2iG6RS)
+    - 结构体:
+    📺[视频](https://k22zz.xetlk.com/s/7VA4d)
+    - 常量与枚举:
+    📺[视频](https://k22zz.xetlk.com/s/24J0aq)
+    - 运算操作符:
+    📺[视频](https://k22zz.xetlk.com/s/2bGNwe)
+    - 流程控制:
+    📺[视频](https://k22zz.xetlk.com/s/tgpwh)
+    - 循环控制:
+    📺[视频](https://k22zz.xetlk.com/s/3nRG1a)
+    - 函数、闭包与方法:
+    📺[视频](https://k22zz.xetlk.com/s/219BV1)
+    - 变量的作用域:
+    📺[视频](https://k22zz.xetlk.com/s/gqcIx)
+    - 数组:
+    📺[视频](https://k22zz.xetlk.com/s/22TAW7)
+    - 切片:
+    📺[视频](https://k22zz.xetlk.com/s/4lBVsV)
+    - map集合:
+    📺[视频](https://k22zz.xetlk.com/s/M589b)
+    - range迭代:
+    📺[视频](https://k22zz.xetlk.com/s/1xm7yI)
+    - 类型转换:
+    📺[视频](https://k22zz.xetlk.com/s/2K8b8u)
 
 
 :writing_hand: [作业地址](https://discord.com/channels/1343593402070990870/1347844164796153917)  
