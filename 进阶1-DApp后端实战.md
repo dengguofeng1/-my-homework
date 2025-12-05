@@ -81,21 +81,23 @@
 ✍️ [作业地址](https://discord.com/channels/1343593402070990870/1352550004199522338)  
 📮 [打卡地址](https://discord.com/channels/1343593402070990870/1352550135480975391)  
 
-## 任务3️⃣  : 文档资料👉 [Solana-GO实战](https://github.com/MetaNodeAcademy/Advanced1-backend-upgrade/tree/main/solana-go%E5%AE%9E%E6%88%98) （选修）
+## 任务3️⃣  : 文档资料👉 [DEX-GO实战](https://github.com/MetaNodeAcademy/Advanced1-backend-upgrade/tree/main/solana-go%E5%AE%9E%E6%88%98) （选修）
 📖 内容概览：  
-深入分析Solana-Go的源码结构，理解关键组件如区块链同步、交易处理和状态管理等的实现。  
+去中心化交易所（dex）  
+
+✅ ​**预期成果**：理解去中心化交易所的交易机制  
+⌛ ​**预计时间**：16小时
+
+[📺  Dex简介](https://k22zz.xetlk.com/s/3s5E27)  [📙 课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/DEX%E7%AE%80%E4%BB%8B.md)  
+[📺  合约设计](https://k22zz.xetlk.com/s/3HWoh5)  [📙  课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/MetaNodeSwap%E5%90%88%E7%BA%A6%E8%AE%BE%E8%AE%A1.md)  
+[📺  合约代码详解](https://k22zz.xetlk.com/s/1L19Ny)  📙 [课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/MetaNodeSwap%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90.md)  
+[📺 多跳交易](https://k22zz.xetslk.com/sl/4j9zI5)
+📙 [课件](https://github.com/MetaNodeAcademy/dex-bot)  
+
 ✅预期成果：  
-学生能够用go进行合约交互操作。  
-
-▫️:区块链读写 
-📖查询区块/发送交易
-✅实现基础链交互
-
-▫️合约代码生成 
-📖solana-program-cli工具使用
-✅自动生成Go绑定代码
-
-▫️事件订阅与日志处理 
+- 理解 x * y = k 价格曲线**交易对**的solidity合约实现  
+- 处理**交易对**数据统计▫️事件订阅与日志处理 
+- 实现价格查询接口
 
 ⌛预计时间：7小时
 
