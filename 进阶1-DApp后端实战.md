@@ -58,8 +58,7 @@
 📺  [视频地址](https://k22zz.xetlk.com/s/PkEfe)
 📙  [课件](https://github.com/MetaNodeAcademy/Advanced1-backend-upgrade/blob/main/ethclient%E5%AE%9E%E6%88%98/2.13%20%E5%90%88%E7%BA%A6%E4%BA%8B%E4%BB%B6/%E5%90%88%E7%BA%A6%E4%BA%8B%E4%BB%B6.md)
 
-✍️ [作业地址](https://discord.com/channels/1343593402070990870/1352549939657572352)  
-📮 [打卡地址](https://discord.com/channels/1343593402070990870/1352550135480975391)  
+✍️ [作业地址](./backend/homework05.md)  
 
 ## 任务2️⃣  : 文档资料👉 [Go-Ethereum 源码解析](https://github.com/MetaNodeAcademy/Advanced1-backend-upgrade/tree/main/Go-ethereum源码解析)
 📖 内容概览：  
