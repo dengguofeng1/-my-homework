@@ -77,8 +77,7 @@
 - [外部参考文档](https://github.com/ZtesoftCS/go-ethereum-code-analysis)
 
 
-✍️ [作业地址](https://discord.com/channels/1343593402070990870/1352550004199522338)  
-📮 [打卡地址](https://discord.com/channels/1343593402070990870/1352550135480975391)  
+✍️ [作业地址](./backend/homework06.md)    
 
 ## 任务3️⃣  : 文档资料👉 [DEX-GO实战](https://github.com/MetaNodeAcademy/Advanced1-backend-upgrade/tree/main/solana-go%E5%AE%9E%E6%88%98) （选修）
 📖 内容概览：  
