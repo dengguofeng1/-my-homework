@@ -105,7 +105,7 @@ Pledge 是一个去中心化金融（DeFi）项目，旨在提供固定利率的
 [📙  课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/MetaNodeSwap%E5%90%88%E7%BA%A6%E8%AE%BE%E8%AE%A1.md)  
 [📺  合约代码详解](https://k22zz.xetlk.com/s/1L19Ny)  
 [📙 课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/MetaNodeSwap%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90.md)  
-[📺 多跳交易](https://k22zz.xetslk.com/sl/4j9zI5)
+[📺 多跳交易](https://k22zz.xetslk.com/sl/4j9zI5)   
 📙 [课件](https://github.com/MetaNodeAcademy/dex-bot)  
 
 ✅预期成果：  理解去中心化交易所的交易机制 
