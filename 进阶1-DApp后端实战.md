@@ -94,7 +94,7 @@ Pledge 是一个去中心化金融（DeFi）项目，旨在提供固定利率的
   
 
 
-## 任务3️⃣  : 文档资料👉 [DEX-GO实战](https://github.com/MetaNodeAcademy/Advanced1-backend-upgrade/tree/main/solana-go%E5%AE%9E%E6%88%98) （选修）
+## 任务4️⃣  : 文档资料👉 [DEX-GO实战](https://github.com/MetaNodeAcademy/Advanced1-backend-upgrade/tree/main/solana-go%E5%AE%9E%E6%88%98)   
 📖 内容概览：  
 去中心化交易所（dex）  
 
@@ -116,6 +116,9 @@ Pledge 是一个去中心化金融（DeFi）项目，旨在提供固定利率的
 ⌛ ​**预计时间**：16小时
 
 
-## 任务4️⃣  : NFT市场项目👉 [课件&视频资料](https://github.com/MetaNodeAcademy/ProjectBreakdown-NFTMarket)
+## 任务5️⃣  : NFT市场项目👉 [课件&视频资料](https://github.com/MetaNodeAcademy/ProjectBreakdown-NFTMarket)
+
+:one:  系统概述   
+NFT 交易市场不仅是一个基于区块链的应用，也是链上技术与链下服务高度结合的典型范例。通过项目的设计和开发，可以探索如何将区块链的去中心化、透明性、不可篡改等特点与传统的链下业务流程进行有机融合，创建一个灵活、可扩展的系统架构，不仅服务于 NFT 交易市场，还能支持未来其他潜在的链上应用，如 Bitcoin 上的铭文、符文等新兴数字资产。
 
 ⌛预计时间：12小时
