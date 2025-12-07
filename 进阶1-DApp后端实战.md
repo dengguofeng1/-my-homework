@@ -79,6 +79,21 @@
 
 ✍️ [作业地址](./backend/homework06.md)    
 
+
+
+## 任务3️⃣  : 文档资料👉 [Pledge项目](https://github.com/MetaNodeAcademy/ProjectBreakdown-Pledge)
+
+:one:  系统概述
+借贷是Defi领域非常重要的模块，Maker、Aave、Compound是当前借贷领域的三巨头。  
+Maker: 抵押资产获取稳定币DAI  [详情](https://docs.makerdao.com/smart-contract-modules/dai-module)  
+Aave: 加密货币借贷协议  [详情](https://aave.com/docs/developers/smart-contracts)  
+Compound: 加密货币借贷协议  [详情](https://docs.compound.finance/#protocol-contracts)  
+Pledge 是一个去中心化金融（DeFi）项目，旨在提供固定利率的借贷协议，主要服务于加密资产持有者。Pledge 旨在解决 DeFi 借贷市场中缺乏固定利率和固定期限融资产品的问题。传统的 DeFi 借贷协议通常采用可变利率，主要服务于短期交易者，而 Pledge 则专注于长期融资需求。
+ 
+⌛ ​**预计时间**：14小时
+  
+
+
 ## 任务3️⃣  : 文档资料👉 [DEX-GO实战](https://github.com/MetaNodeAcademy/Advanced1-backend-upgrade/tree/main/solana-go%E5%AE%9E%E6%88%98) （选修）
 📖 内容概览：  
 去中心化交易所（dex）  
