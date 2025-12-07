@@ -11,7 +11,7 @@
 
 - 开发环境准备: 
 
-    [📺视频](https://k22zz.xetlk.com/s/MwoVT)
+    [📺视频](https://k22zz.xetlk.com/s/MwoVT)   
   [📄课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/01.%E5%BA%8F%E7%AB%A0%20Golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87/Golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87.md)
 - 文件结构:
 
