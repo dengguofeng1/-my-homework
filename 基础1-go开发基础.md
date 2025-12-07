@@ -11,7 +11,8 @@
 
 - 开发环境准备: 
 
-    [📺视频](https://k22zz.xetlk.com/s/MwoVT)  [📄课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/01.%E5%BA%8F%E7%AB%A0%20Golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87/Golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87.md)
+    [📺视频](https://k22zz.xetlk.com/s/MwoVT)
+  [📄课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/01.%E5%BA%8F%E7%AB%A0%20Golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87/Golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87.md)
 - 文件结构:
 
     [📺视频](https://k22zz.xetlk.com/s/3hJxTF)  [📄课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.01%20go%E6%96%87%E4%BB%B6%E7%9A%84%E7%BB%93%E6%9E%84/Go%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
