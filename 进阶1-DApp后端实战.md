@@ -83,21 +83,24 @@
 📖 内容概览：  
 去中心化交易所（dex）  
 
-✅ ​**预期成果**：理解去中心化交易所的交易机制  
-⌛ ​**预计时间**：16小时
 
-[📺  Dex简介](https://k22zz.xetlk.com/s/3s5E27)  [📙 课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/DEX%E7%AE%80%E4%BB%8B.md)  
-[📺  合约设计](https://k22zz.xetlk.com/s/3HWoh5)  [📙  课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/MetaNodeSwap%E5%90%88%E7%BA%A6%E8%AE%BE%E8%AE%A1.md)  
-[📺  合约代码详解](https://k22zz.xetlk.com/s/1L19Ny)  📙 [课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/MetaNodeSwap%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90.md)  
+[📺  Dex简介](https://k22zz.xetlk.com/s/3s5E27)  
+[📙 课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/DEX%E7%AE%80%E4%BB%8B.md)  
+[📺  合约设计](https://k22zz.xetlk.com/s/3HWoh5)  
+[📙  课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/MetaNodeSwap%E5%90%88%E7%BA%A6%E8%AE%BE%E8%AE%A1.md)  
+[📺  合约代码详解](https://k22zz.xetlk.com/s/1L19Ny)  
+[📙 课件](https://github.com/MetaNodeAcademy/Base2_Solidity_Dex/blob/main/MetaNodeSwap%E4%BB%A3%E7%A0%81%E5%88%86%E6%9E%90.md)  
 [📺 多跳交易](https://k22zz.xetslk.com/sl/4j9zI5)
 📙 [课件](https://github.com/MetaNodeAcademy/dex-bot)  
 
-✅预期成果：  
+✅预期成果：  理解去中心化交易所的交易机制 
 - 理解 x * y = k 价格曲线**交易对**的solidity合约实现  
 - 处理**交易对**数据统计▫️事件订阅与日志处理 
 - 实现价格查询接口
-
-⌛预计时间：7小时
+ 
+⌛ ​**预计时间**：16小时
 
 
 ## 任务4️⃣  : NFT市场项目👉 [课件&视频资料](https://github.com/MetaNodeAcademy/ProjectBreakdown-NFTMarket)
+
+⌛预计时间：12小时
