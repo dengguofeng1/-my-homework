@@ -1,4 +1,10 @@
 # 进阶一：DApp后端实战（O1）
+
+
+## 高薪选修
+
+[📙  K8S入门到微服务项目实战](./backend/k8s.pdf)
+
 ## 任务 :one: :文档资料 :point_right: [ethclient实战](https://github.com/MetaNodeAcademy/Advanced1-backend-upgrade/tree/main/ethclient%E5%AE%9E%E6%88%98)
 :book: ​**内容概览**  
 使用go-ethereum进行链交互  
