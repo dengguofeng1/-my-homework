@@ -6,7 +6,7 @@
 
 ## 📚 了解 Web3
 
-不管你是前后端，先完成 **web3 业务了解](https://github.com/MetaNodeAcademy/week-one)**，然后是 [web3 概念扫盲](./web3扫盲.md)。
+不管你是前后端，先完成 **[web3 业务了解](https://github.com/MetaNodeAcademy/week-one)**，然后是 [web3 概念扫盲](./web3扫盲.md)。
 
 这里你需要掌握：
 
