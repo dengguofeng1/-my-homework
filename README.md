@@ -1,6 +1,7 @@
 # 学习路线图
 
 > 欢迎来到 `MetaNode` 学院学习
+> 如果你用的是 `windows` 系统，比较建议我们先安装下 `wsl` 的环境， [教程点这里](https://k22zz.xetslk.com/s/cmESl)   
 
 ---
 
