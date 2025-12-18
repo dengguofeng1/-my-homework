@@ -158,3 +158,5 @@
 
 :writing_hand: [作业地址](./backend/homework04.md)
 这里作业统一提交一个能公开访问的github地址，每个章节的作业，就对应一个文件夹
+
+## [下一章：合约学习](https://github.com/MetaNodeAcademy/solidity_lesson/blob/main/README.md)
