@@ -1,77 +1,15 @@
 # 基础一：Golang开发基础（F1）
 :bulb: 点击蓝色标题跳转Github链接
 
-## 任务 :one:: 文档资料 :point_right: [Go语言基础](https://github.com/MetaNodeAcademy/Base1_golang/tree/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80)
+## 任务 :one:: 文档资料 :point_right: [Go语言基础](https://github.com/MetaNodeAcademy/golang-learning/blob/main/lesson-01/README.md)
 
 :book: ​**内容概览**  
 掌握Go基础语法，包括流程控制、函数、值与引用类型等核心概念  
 :white_check_mark: ​**预期成果**  
 能独立编写包含基础语法元素的Go程序  
-:hourglass: ​**预计时间**：6小时  
+:hourglass: ​**预计时间**：9小时  
+**[👋 课程和视频地址](https://github.com/MetaNodeAcademy/golang-learning/blob/main/lesson-01/README.md)**   
 
-- 开发环境准备: 
-    [📺 视频](https://k22zz.xetlk.com/s/MwoVT)   
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/01.%E5%BA%8F%E7%AB%A0%20Golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87/Golang%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87.md)
-- 文件结构:
-    [📺 视频](https://k22zz.xetlk.com/s/3hJxTF)   
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.01%20go%E6%96%87%E4%BB%B6%E7%9A%84%E7%BB%93%E6%9E%84/Go%E6%96%87%E4%BB%B6%E7%BB%93%E6%9E%84.md)
-
-- 基本数据类型:   
-    [📺 视频](https://k22zz.xetlk.com/s/2FaAaH)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.02%20%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B/%E5%9F%BA%E6%9C%AC%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
-
-- 定义变量:   
-     [📺 视频](https://k22zz.xetlk.com/s/25V7mQ)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.03%20%E5%8F%98%E9%87%8F%E5%AE%9A%E4%B9%89/%E5%8F%98%E9%87%8F%E5%AE%9A%E4%B9%89.md)
-- 指针:   
-    [📺 视频](https://k22zz.xetlk.com/s/2iG6RS)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.04%20%E6%8C%87%E9%92%88/%E6%8C%87%E9%92%88.md)
-- 结构体:  
-    [📺 视频](https://k22zz.xetlk.com/s/7VA4d)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.05%20%E7%BB%93%E6%9E%84%E4%BD%93/%E7%BB%93%E6%9E%84%E4%BD%93.md)
-- 常量与枚举:  
-    [📺 视频](https://k22zz.xetlk.com/s/24J0aq)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.06%20%E5%B8%B8%E9%87%8F%E4%B8%8E%E6%9E%9A%E4%B8%BE/%E5%B8%B8%E9%87%8F%E4%B8%8E%E6%9E%9A%E4%B8%BE.md)
-- 运算操作符:  
-    [📺 视频](https://k22zz.xetlk.com/s/2bGNwe)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.07%20%E8%BF%90%E7%AE%97%E6%93%8D%E4%BD%9C%E7%AC%A6/%E8%BF%90%E7%AE%97%E6%93%8D%E4%BD%9C%E7%AC%A6.md)
-
-- 流程控制:  
-    [📺 视频](https://k22zz.xetlk.com/s/tgpwh)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.08%20%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6/%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6.md)
-
-- 循环控制:  
-    [📺 视频](https://k22zz.xetlk.com/s/3nRG1a)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.09%20%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6/%E5%BE%AA%E7%8E%AF%E6%8E%A7%E5%88%B6.md)
-
-- 函数、闭包与方法:
-    [📺视频](https://k22zz.xetlk.com/s/219BV1)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.10%20%E5%87%BD%E6%95%B0%E3%80%81%E9%97%AD%E5%8C%85%E4%B8%8E%E6%96%B9%E6%B3%95/%E5%87%BD%E6%95%B0%E3%80%81%E9%97%AD%E5%8C%85%E4%B8%8E%E6%96%B9%E6%B3%95.md)
-
-- 变量的作用域:
-
-    [📺视频](https://k22zz.xetlk.com/s/gqcIx)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.11%20%E5%8F%98%E9%87%8F%E7%9A%84%E4%BD%9C%E7%94%A8%E5%9F%9F/%E5%8F%98%E9%87%8F%E7%9A%84%E4%BD%9C%E7%94%A8%E5%9F%9F.md)
-
-- 数组:
-    [📺视频](https://k22zz.xetlk.com/s/22TAW7)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.12%20%E6%95%B0%E7%BB%84/%E6%95%B0%E7%BB%84.md)
-
-- 切片:
-    [📺视频](https://k22zz.xetlk.com/s/4lBVsV)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.13%20%E5%88%87%E7%89%87/%E5%88%87%E7%89%87.md)
-
-- map集合:
-    [📺视频](https://k22zz.xetlk.com/s/M589b)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.14%20map%E9%9B%86%E5%90%88/map%E9%9B%86%E5%90%88.md)
-
-- range迭代:
-    [📺视频](https://k22zz.xetlk.com/s/1xm7yI)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.15%20range%20%E8%BF%AD%E4%BB%A3/range%20%E8%BF%AD%E4%BB%A3.md)
-
-- 类型转换:
-    [📺视频](https://k22zz.xetlk.com/s/2K8b8u)
-  [📄 课件](https://github.com/MetaNodeAcademy/Base1_golang/blob/main/02.%E7%AC%AC%E4%B8%80%E7%AB%A0%20Golang%E7%BC%96%E7%A8%8B%E5%9F%BA%E7%A1%80/1.16%20%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2/%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
 
 [:writing_hand: 作业地址](./backend/homework01.md)  
