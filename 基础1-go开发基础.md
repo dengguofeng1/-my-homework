@@ -8,7 +8,7 @@
 :white_check_mark: ​**预期成果**  
 能独立编写包含基础语法元素的Go程序  
 :hourglass: ​**预计时间**：9小时  
-**[👋 课程和视频地址](https://github.com/MetaNodeAcademy/golang-learning/blob/main/lesson-01/README.md)**   
+**[👋 视频和课件地址](https://github.com/MetaNodeAcademy/golang-learning/blob/main/lesson-01/README.md)**   
 
 
 
