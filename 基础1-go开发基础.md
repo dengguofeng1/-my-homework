@@ -97,4 +97,15 @@
 :writing_hand: [作业地址](./backend/homework04.md)
 这里作业统一提交一个能公开访问的github地址，每个章节的作业，就对应一个文件夹
 
-## [下一章：合约学习](https://github.com/MetaNodeAcademy/solidity_lesson/blob/main/README.md)
+## [任务 :five:: Solidity入门到精通](https://github.com/MetaNodeAcademy/solidity_lesson/blob/main/README.md)
+:book: ​**内容概览**  
+从Solidity基本语法、语言特性到开发实战  
+:white_check_mark: ​**预期成果**  
+ - 理解ERC-20代币合约、ERC-721 NFT合约
+ - 熟练应用`openzeppelin`工具包
+ - 掌握 hardhat、foundry 合约开发测试部署框架
+:hourglass: ​**预计时间**：30小时
+
+## [下一章学习](./%E8%BF%9B%E9%98%B61-DApp%E5%90%8E%E7%AB%AF%E5%AE%9E%E6%88%98.md)
+
+
