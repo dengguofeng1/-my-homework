@@ -98,6 +98,7 @@
 这里作业统一提交一个能公开访问的github地址，每个章节的作业，就对应一个文件夹
 
 ## [任务 :five:: Solidity入门到精通](https://github.com/MetaNodeAcademy/solidity_lesson/blob/main/README.md)
+[:book: ​点这里 **学习传送门🚪**  ](https://github.com/MetaNodeAcademy/solidity_lesson/blob/main/README.md)   
 :book: ​**内容概览**  
 从Solidity基本语法、语言特性到开发实战  
 :white_check_mark: ​**预期成果**  
