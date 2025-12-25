@@ -30,8 +30,8 @@
 
 ## ⚙️ 后端看这里
 
-- **后端基础**：[Go 开发基础](https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E5%9F%BA%E7%A1%801-go%E5%BC%80%E5%8F%91%E5%9F%BA%E7%A1%80.md)
-- **合约开发教程**：[Solidity 教程](https://github.com/MetaNodeAcademy/solidity_lesson/blob/main/README.md)
+- **后端基础**：[基础1-DApp后端基础.md](https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/基础1-DApp后端基础.md
+.md)
 - **后端实战**：[DApp 后端实战](https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E8%BF%9B%E9%98%B61-DApp%E5%90%8E%E7%AB%AF%E5%AE%9E%E6%88%98.md)
 - **合约开发实战**：[合约开发实战](https://github.com/MetaNodeAcademy/LearningRoadmap/blob/main/%E8%BF%9B%E9%98%B62-%E5%90%88%E7%BA%A6%E5%BC%80%E5%8F%91%E5%AE%9E%E6%88%98.md)
 - **简历项目优化**：[Resume-Backend](https://github.com/MetaNodeAcademy/web3-interview-sharing)   
