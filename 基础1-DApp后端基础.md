@@ -7,7 +7,7 @@
 掌握Go基础语法，包括流程控制、函数、值与引用类型等核心概念  
 :white_check_mark: ​**预期成果**  
 能独立编写包含基础语法元素的Go程序  
-:hourglass: ​**预计时间**：12小时  
+:hourglass: ​**预计时间**：22小时  
 **[👋 视频和课件地址](https://github.com/MetaNodeAcademy/golang-learning/blob/main/lesson-01/README.md)**   
 
 
