@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"sync"
 )
 
 // 1. 只出现一次的数字
@@ -273,47 +272,47 @@ func main() {
 	// fmt.Printf("输入: %v\n", nums1)
 	// fmt.Printf("只出现一次的数字: %d\n\n", SingleNumber(nums1))
 
-	fmt.Println("=== 2. 回文数 (使用协程) ===")
-	palindromeChan := make(chan int)
-	var wg sync.WaitGroup
+	// fmt.Println("=== 2. 回文数 (使用协程) ===")
+	// palindromeChan := make(chan int)
+	// var wg sync.WaitGroup
 
-	// 启动协程检查 1 到 100000 的回文数
-	wg.Add(1)
-	go func() {
-		defer wg.Done()
-		count := 0
-		for i := 1; i <= 100000; i++ {
-			if IsPalindrome(i) {
-				count++
-				if count <= 1000 { // 只打印前10个
-					palindromeChan <- i
-				}
-			}
-		}
-		close(palindromeChan)
-	}()
+	// // 启动协程检查 1 到 100000 的回文数
+	// wg.Add(1)
+	// go func() {
+	// 	defer wg.Done()
+	// 	count := 0
+	// 	for i := 1; i <= 100000; i++ {
+	// 		if IsPalindrome(i) {
+	// 			count++
+	// 			if count <= 1000 { // 只打印前10个
+	// 				palindromeChan <- i
+	// 			}
+	// 		}
+	// 	}
+	// 	close(palindromeChan)
+	// }()
 
-	//从 channel 接收数据
+	// //从 channel 接收数据
 
-	for num := range palindromeChan {
-		fmt.Printf("%d ", num)
-	}
-	fmt.Println()
-	wg.Wait()
+	// for num := range palindromeChan {
+	// 	fmt.Printf("%d ", num)
+	// }
+	// fmt.Println()
+	// wg.Wait()
 
-	// 再启动协程统计总数
-	wg.Add(1)
-	go func() {
-		defer wg.Done()
-		count := 0
-		for i := 1; i <= 100000; i++ {
-			if IsPalindrome(i) {
-				count++
-			}
-		}
-		fmt.Printf("1 到 100000 中共有 %d 个回文数\n\n", count)
-	}()
-	wg.Wait()
+	// // 再启动协程统计总数
+	// wg.Add(1)
+	// go func() {
+	// 	defer wg.Done()
+	// 	count := 0
+	// 	for i := 1; i <= 100000; i++ {
+	// 		if IsPalindrome(i) {
+	// 			count++
+	// 		}
+	// 	}
+	// 	fmt.Printf("1 到 100000 中共有 %d 个回文数\n\n", count)
+	// }()
+	// wg.Wait()
 
 	// fmt.Println("=== 3. 有效的括号 ===")
 	// str := "()[]{}{]"
@@ -341,9 +340,9 @@ func main() {
 	// 	fmt.Printf("输入: %v\n", intervals)
 	// 	fmt.Printf("合并后: %v\n\n", Merge(intervals))
 
-	// fmt.Println("=== 8. 两数之和 ===")
-	// nums3 := []int{2, 7, 11, 15}
-	// target := 9
-	// fmt.Printf("输入: %v, 目标: %d\n", nums3, target)
-	// fmt.Printf("结果: %v\n", TwoSum(nums3, target))
+	fmt.Println("=== 8. 两数之和 ===")
+	nums3 := []int{2, 7, 11, 15}
+	target := 9
+	fmt.Printf("输入: %v, 目标: %d\n", nums3, target)
+	fmt.Printf("结果: %v\n", TwoSum(nums3, target))
 }
