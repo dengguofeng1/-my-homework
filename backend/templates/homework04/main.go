@@ -32,11 +32,13 @@ func main() {
 	// Public routes
 	r.POST("/register", handlers.Register)
 	r.POST("/login", handlers.Login)
+	r.GET("/users/:user_id/posts", handlers.GetPostsByUser) // 题目2：查询用户的所有文章及评论
 
 	// Post routes
 	posts := r.Group("/posts")
 	{
 		posts.GET("", handlers.GetPosts)
+		posts.GET("/popular", handlers.GetPopularPost) // 题目2：查询评论最多的文章
 		posts.GET("/:id", handlers.GetPost)
 
 		// Protected routes
@@ -51,10 +53,16 @@ func main() {
 
 	// Comment routes
 	comments := r.Group("/comments")
-	comments.Use(middleware.AuthMiddleware())
 	{
-		comments.POST("", handlers.CreateComment)
 		comments.GET("/post/:post_id", handlers.GetCommentsByPost)
+
+		// Protected routes
+		protected := comments.Group("")
+		protected.Use(middleware.AuthMiddleware())
+		{
+			protected.POST("", handlers.CreateComment)
+			protected.DELETE("/:id", handlers.DeleteComment) // 题目3：删除评论触发钩子
+		}
 	}
 
 	if err := r.Run(":8080"); err != nil {

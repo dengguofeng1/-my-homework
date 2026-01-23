@@ -6,6 +6,7 @@ import (
 	"time"
 
 	"gorm.io/driver/mysql"
+	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
 
@@ -64,14 +65,64 @@ func (c *Comment) AfterDelete(tx *gorm.DB) error {
 	return nil
 }
 
+// 1. 定义数据库管理器接口
+type DatabaseManager interface {
+	Connect() (*gorm.DB, error)
+	GetName() string
+}
+
+// 2. 实现 MySQL 管理器
+type MySQLManager struct {
+	DSN string
+}
+
+func (m *MySQLManager) Connect() (*gorm.DB, error) {
+	return gorm.Open(mysql.Open(m.DSN), &gorm.Config{})
+}
+
+func (m *MySQLManager) GetName() string {
+	return "MySQL"
+}
+
+// 3. 实现 SQLite 管理器
+type SQLiteManager struct {
+	DBFile string
+}
+
+func (s *SQLiteManager) Connect() (*gorm.DB, error) {
+	return gorm.Open(sqlite.Open(s.DBFile), &gorm.Config{})
+}
+
+func (s *SQLiteManager) GetName() string {
+	return "SQLite"
+}
+
 func main() {
-	// 数据库连接配置 (请确保本地 MySQL 已启动并创建了 blog_system 数据库)
-	// 用户名: root, 密码: password (请根据实际情况修改)
-	dsn := "root:password@tcp(127.0.0.1:3306)/blog_system?charset=utf8mb4&parseTime=True&loc=Local"
-	db, err := gorm.Open(mysql.Open(dsn), &gorm.Config{})
+	var db *gorm.DB
+	var err error
+	var manager DatabaseManager
+
+	// 4. 初始化 MySQL 管理器
+	mysqlDSN := "root:password@tcp(127.0.0.1:3306)/blog_system?charset=utf8mb4&parseTime=True&loc=Local"
+	manager = &MySQLManager{DSN: mysqlDSN}
+
+	fmt.Printf("正在尝试通过接口连接 %s...\n", manager.GetName())
+	db, err = manager.Connect()
+
+	// 5. 如果失败，通过接口切换到 SQLite 实现
 	if err != nil {
-		log.Fatal("连接数据库失败:", err)
+		fmt.Printf("%s 连接失败: %v\n", manager.GetName(), err)
+
+		manager = &SQLiteManager{DBFile: "gorm.db"}
+		fmt.Printf("正在切换到 %s...\n", manager.GetName())
+
+		db, err = manager.Connect()
+		if err != nil {
+			log.Fatal("所有数据库连接均失败:", err)
+		}
 	}
+
+	fmt.Printf("✓ 最终成功通过接口连接到: %s\n", manager.GetName())
 
 	// 题目 1：自动迁移表结构
 	err = db.AutoMigrate(&User{}, &Post{}, &Comment{})
@@ -81,9 +132,9 @@ func main() {
 	fmt.Println("✓ 题目1：数据库表创建成功")
 
 	// 清理旧数据（可选，方便重复运行测试）
-	db.Session(&gorm.Session{AllowGlobalUpdate: true}).Delete(&Comment{})
-	db.Session(&gorm.Session{AllowGlobalUpdate: true}).Delete(&Post{})
-	db.Session(&gorm.Session{AllowGlobalUpdate: true}).Delete(&User{})
+	// db.Session(&gorm.Session{AllowGlobalUpdate: true}).Delete(&Comment{})
+	// db.Session(&gorm.Session{AllowGlobalUpdate: true}).Delete(&Post{})
+	// db.Session(&gorm.Session{AllowGlobalUpdate: true}).Delete(&User{})
 
 	// 插入测试数据
 	user1 := User{Name: "张三", Email: "zhangsan@example.com"}

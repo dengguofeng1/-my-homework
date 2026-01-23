@@ -53,3 +53,28 @@ func GetCommentsByPost(c *gin.Context) {
 
 	c.JSON(http.StatusOK, comments)
 }
+
+// DeleteComment 删除评论并触发模型钩子检查评论状态
+func DeleteComment(c *gin.Context) {
+	id := c.Param("id")
+	userID, _ := c.Get("userID")
+
+	var comment models.Comment
+	if err := database.DB.First(&comment, id).Error; err != nil {
+		c.JSON(http.StatusNotFound, gin.H{"error": "Comment not found"})
+		return
+	}
+
+	// 权限检查：只有评论者可以删除
+	if comment.UserID != userID.(uint) {
+		c.JSON(http.StatusForbidden, gin.H{"error": "You are not the author of this comment"})
+		return
+	}
+
+	if err := database.DB.Delete(&comment).Error; err != nil {
+		c.JSON(http.StatusInternalServerError, gin.H{"error": "Failed to delete comment"})
+		return
+	}
+
+	c.JSON(http.StatusOK, gin.H{"message": "Comment deleted successfully"})
+}
